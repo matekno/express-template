@@ -1,0 +1,2 @@
+# Template Express y Typescript
+Una muy sencilla forma de empezar un proyecto en typescript con node y express, la estructura más sencilla y ordenada que uso para la mayoría de proyectos que se amoldan a esta tecnología.
